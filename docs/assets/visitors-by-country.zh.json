@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "city": "frankfurt",
+  "locale": "zh",
+  "layout": "wide",
+  "presentation": "world_map_and_rank",
+  "path": "docs/assets/visitors-by-country.zh.svg",
+  "sha256": "9a47719637484f9688ef964b203f2866bba7602d135dee146e7a9909315cd7d7",
+  "source_kind": "not_connected",
+  "collection_status": "not_connected",
+  "metric": null,
+  "source": null,
+  "generated_at_utc": null
+}
